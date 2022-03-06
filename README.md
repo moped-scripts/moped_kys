@@ -7,7 +7,7 @@ Standalone RedM script allowing you to shoot yourself with a gun (kinda).
 ## Requirements
 - None. (if you use chat messages instead of notifications)
 
-## This script was made by Orsino & totsu /// MOPED. Group 2021. 
+## This script was made by totsu /// MOPED. Group 2022. 
 For more scripts and support join https://dsc.gg/moped
 
 ### Want to improve the code? Go ahead: https://github.com/moped-scripts/moped_kys/pulls
