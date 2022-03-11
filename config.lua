@@ -33,7 +33,7 @@ SendNotification = function(text) -- not really sure about any of these framewor
 	if Config.Notification == 'redemrp' then
 		TriggerEvent('redem_roleplay:Tip', text, 7500)
 	elseif Config.Notification == 'vorp' then
-		TriggerEvent("vorp:Tip", text, 7500)
+		TriggerEvent("vorp:TipRight", text, 7500)
 	elseif Config.Notification == 'gum_notify' then
 		exports['gum_notify']:DisplayLeftNotification(Config.Locales.suicide, text, '', 7500)
 	elseif Config.Notification == 'chat' then
